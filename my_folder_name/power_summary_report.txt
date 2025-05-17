@@ -1,0 +1,24 @@
+=== Group-wise Power Output ===
+Group 00: Power = 16063.68 W
+Group 01: Power = 16834.11 W
+Group 02: Power = 17470.89 W
+Group 03: Power = 17965.20 W
+Group 04: Power = 23661.42 W
+Group 05: Power = 24215.90 W
+Group 06: Power = 24443.18 W
+Group 07: Power = 24699.41 W
+Group 08: Power = 24192.76 W
+Group 09 (incomplete): Power = 21003.37 W
+
+=== Summary of Optimized Layout ===
+Total Power       = 210549.92 W
+Average Group     = 21054.99 W
+Max Group Power   = 24699.41 W
+Min Group Power   = 16063.68 W
+
+=== Random Layout Benchmark ===
+Average Random    = 164990.57 W
+Max Random        = 169266.23 W
+Min Random        = 163624.03 W
+
+ Improvement = 24555.98 W (14.88%)
